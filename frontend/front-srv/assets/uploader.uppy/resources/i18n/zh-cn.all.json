@@ -1,0 +1,14 @@
+{
+  "importFiles": {
+    "other": "捕获音频或视频自:"
+  },
+  "title.camera": {
+    "other": "摄像头"
+  },
+  "title.screencast": {
+    "other": "屏幕投影"
+  },
+  "title.audio": {
+    "other": "麦克风"
+  }
+}

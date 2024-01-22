@@ -1,0 +1,32 @@
+{
+  "Search.Config.IndexContent.Label": {
+    "other": "Thiết lập tìm kiếm trên nội dung"
+  },
+  "Search.Config.IndexContent.Description": {
+    "other": "Nếu tùy chọn này được thiết lập, bộ công cụ tìm kiếm sẽ lấy nội dung của ContentRef metadata."
+  },
+  "Search.Config.ContentRef.Label": {
+    "other": "Content Reference Metadata"
+  },
+  "Search.Config.ContentRef.Description": {
+    "other": "A metadata storing a reference to a specific file: extractors can create textual representation of files will store them in plain text or gzip-encoded. Search engine will then try to load this content at indexation. Use pydio: prefix to make sure it does not leak out."
+  },
+  "Search.Config.PlainTextExtensions.Label": {
+    "other": "Plain Text Extensions"
+  },
+  "Search.Config.PlainTextExtensions.Description": {
+    "other": "List of extensions for files containing directly indexable plain-text contents (comma-separated-list)."
+  },
+  "Search.Config.BasenameAnalyze.Label": {
+    "other": "Bộ phân tích tên tệp"
+  },
+  "Search.Config.BasenameAnalyze.Description": {
+    "other": "Bộ phân tích được sử dụng để phân tích tên tệp"
+  },
+  "Search.Config.ContentAnalyzer.Label": {
+    "other": "Bộ phân tích nội dung"
+  },
+  "Search.Config.ContentAnalyzer.Description": {
+    "other": "Bộ phân tích sẽ phân tích nội dung của tệp"
+  }
+}

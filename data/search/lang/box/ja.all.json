@@ -1,0 +1,32 @@
+{
+  "Search.Config.IndexContent.Label": {
+    "other": "インデックスコンテンツ"
+  },
+  "Search.Config.IndexContent.Description": {
+    "other": "true が設定されている場合、インデクサーはContentRef メタデータを探し、この参照からコンテンツを読み込んで検索用にインデックスを作成します。"
+  },
+  "Search.Config.ContentRef.Label": {
+    "other": "コンテンツ参照メタデータ"
+  },
+  "Search.Config.ContentRef.Description": {
+    "other": "特定のファイルへの参照を保存するメタデータ: エクストラクターはファイルのテキスト表現を作成し、ファイルをプレーン テキストまたは gzip エンコードで保存します。検索エンジンはインデックス作成時にこのコンテンツをロードしようとします。 pydio: プレフィックスを使用して、漏洩しないようにしてください。"
+  },
+  "Search.Config.PlainTextExtensions.Label": {
+    "other": "プレーンテキストの拡張子"
+  },
+  "Search.Config.PlainTextExtensions.Description": {
+    "other": "直接インデックス可能なプレーンテキストコンテンツを含むファイルの拡張子の一覧 (カンマ区切りリスト)。"
+  },
+  "Search.Config.BasenameAnalyze.Label": {
+    "other": "ファイル名アナライザー"
+  },
+  "Search.Config.BasenameAnalyze.Description": {
+    "other": "ファイル名に使用されるアナライザー"
+  },
+  "Search.Config.ContentAnalyzer.Label": {
+    "other": "コンテンツアナライザー"
+  },
+  "Search.Config.ContentAnalyzer.Description": {
+    "other": "コンテンツに使用されるアナライザー"
+  }
+}
